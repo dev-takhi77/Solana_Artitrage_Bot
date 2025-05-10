@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.91.4",
+    "bs58": "^5.0.0",
+    "cross-fetch": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "jito-ts": "^4.0.1",
+    "pkg": "^5.8.1",
+    "rpc-websockets": "7.11.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.23.0"
+  }
+}
